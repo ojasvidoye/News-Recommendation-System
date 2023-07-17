@@ -1,4 +1,4 @@
-# News-Recommendation-System
+# News Recommendation System
 The News Article Recommendation System is a project designed to provide personalized article recommendations based on the content of news headlines.
 The system utilizes natural language processing (NLP) techniques and machine learning algorithms to analyze and understand the similarities between news articles, enabling it to suggest relevant articles to users based on their interests.
 The goal of this project is to enhance the user experience by offering curated article recommendations that align with their preferences and reading habits. By leveraging the power of NLP, the system identifies the underlying semantic meaning of news headlines and establishes connections between different articles, thereby providing users with a tailored selection of articles that match their interests.
